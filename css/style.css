@@ -30,3 +30,9 @@ body {
     color: aquamarine;
 }
 
+/*Footer*/
+.copyright {
+    color: gray;
+    font-size: 21px;
+    text-align: right
+}
